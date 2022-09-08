@@ -37,7 +37,7 @@ while run_outer:
         run_outer = False
 
     loops.append(list(loop))
-    lens.append(len(loop))
+    lens.append(len(loop)) 
 
 print(loops)
 print(lens)
