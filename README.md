@@ -1,7 +1,8 @@
-# 100PrisionersRiddle
-Code for solving the 100 prisioners riddle
+# The 100 Prisioners Riddle
 
-This code create random loops for solving the 100 prissioner riddle.
+Puython code for solving the 100 prisioners riddle using the loop strategy.
+
+This code create random loops for solving the riddle.
 
 Output wil be the loops and their lengths. Run it several times to get loops shorter than 50, so you can solve the riddle.
 
