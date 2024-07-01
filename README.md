@@ -1,6 +1,6 @@
 # The 100 Prisioners Riddle
 
-Puython code for solving the 100 prisioners riddle using the loop strategy.
+Python code for solving the 100 prisioners riddle using the loop strategy.
 
 This code create random loops for solving the riddle.
 
